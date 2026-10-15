@@ -1,4 +1,5 @@
 # go-scheduler
+![Coverage](https://img.shields.io/badge/Coverage-81.8%25-brightgreen)
 [![License: MIT](https://img.shields.io/badge/Licence-MIT-brightgreen)](https://opensource.org/license/mit)
 
 go-scheduler is yet another scheduling package that allows you to schedule jobs at given times or intervals.
